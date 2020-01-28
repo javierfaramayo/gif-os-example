@@ -1,0 +1,15 @@
+.dark {
+    background-color: #110038;
+    color: white;
+
+    .navbar__brand-image {
+        background-image: url('');
+    }
+
+    .button {
+        background: #EE3EFE;
+        border: 1px solid #110038;
+        box-shadow: inset -1px -1px 0 0 #A72CB3, inset 1px 1px 0 0 #FFFFFF;
+        color: #FFFFFF;
+    }
+}

@@ -1,0 +1,15 @@
+.navbar {
+    &__container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    &__menu-container li {
+        list-style: none;
+    }
+}
+
+.button {
+    padding: 9px 24px;
+}
